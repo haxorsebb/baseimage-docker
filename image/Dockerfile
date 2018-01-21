@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Phusion <info@phusion.nl>
+MAINTAINER haxorsebb <s.hueltenschmidt@kernel-consulting.de
 
 COPY . /bd_build
 
